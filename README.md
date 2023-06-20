@@ -8,7 +8,7 @@
 * We carried out data manipulations to adjust for entry problems, cleanings for duplicate,creation of new variables and much more
 
 ## Exploratory Analysis
-* This exploratory analysis, to help us understand our data and have a picture on how COVID-19 affects nations and regions. A
+* This exploratory analysis, to help us understand our data and have a picture on how Real Estate market is in Nashville, TN.
 * This was done using tables, correlation plots, maps, and histograms.
 
 
